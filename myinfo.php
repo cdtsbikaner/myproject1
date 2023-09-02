@@ -1,0 +1,6 @@
+djhvbdhjvbdjhvbdjhvd
+
+<?php
+		echo date("");
+
+?>
